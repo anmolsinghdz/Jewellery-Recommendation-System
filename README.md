@@ -7,7 +7,7 @@ All the required packages along with their version are in the requirements.txt. 
 pip3 install -r requirements.txt
 
 ## Required Steps
-Developing a CNN multiclass image classifier to determine the jewelry type.  
+Developing a CNN multiclass image classifier to determine the jewellery type.  
 Creating image clustering models (for each jewelry type) by using Autoencoder + KMeans. Autoencoder is used for nonlinear dimension reduction of images.  
 Building a simple front end for the user interaction.  
 Developing a web application using Flask module in Python.  
